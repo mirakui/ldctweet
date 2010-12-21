@@ -1,0 +1,9 @@
+source :rubygems
+gem "pit"
+gem "basepath"
+gem "thor"
+gem "ldclip"
+gem "nokogiri"
+gem "twitter_oauth"
+gem "bitly"
+gem "hatenabm"

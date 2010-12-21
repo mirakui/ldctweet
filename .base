@@ -1,0 +1,13 @@
+[requires]
+cgi
+kconv
+pit
+twitter_oauth
+ldclip
+nokogiri
+hatenabm
+bitly
+
+[consts]
+LOG_PATH = log
+RECENT_POSTED_URL_PATH = log/recent_posted_url
